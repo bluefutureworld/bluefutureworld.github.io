@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/bluefutureworld/bluefuture
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-my name is J.Y.Thank you very much to visit my homepage,it is my pleasure to help you.
+<h2>my name is J.Y.Thank you very much to visit my homepage,it is my pleasure to help you.</h2>
 
 ### Markdown
 
